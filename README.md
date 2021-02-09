@@ -21,4 +21,10 @@ Aggregate fonksiyonları kullanarak bir rapor oluşturdum.
 ![8](https://user-images.githubusercontent.com/71218414/107337186-11889080-6acb-11eb-8752-3f6e15c75d53.png)
 
 Burada FaturaKod kolonomuz group by olduğu için group kısmına diğerlerini diteails kısmına yerleştirip raporu oluşturuyoruz.
+![11](https://user-images.githubusercontent.com/71218414/107337825-e5b9da80-6acb-11eb-85e4-012990717883.png)
+
+Adet kolonomuz ürün sayısını bulmak için count fonksiyonunu kullanıyoruz.
 ![9](https://user-images.githubusercontent.com/71218414/107337196-13eaea80-6acb-11eb-8ae5-b3008dac0aa4.png)
+
+Raporumuzu görebiliyoruz.
+![10](https://user-images.githubusercontent.com/71218414/107337819-e488ad80-6acb-11eb-9827-607cd3d33aae.png)
